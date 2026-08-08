@@ -1,31 +1,15 @@
-[Antonius Andrian-README.md](https://github.com/user-attachments/files/30857153/Antonius.Andrian-README.md)
-## Hi there 👋
-
-<!--
-**GyozaLion/GyozaLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GyozaLion-README.md](https://github.com/user-attachments/files/30857184/GyozaLion-README.md)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Engineering%20Student%20%F0%9F%8E%93;Learning%20%C2%B7%20Building%20%C2%B7%20Growing;Future%20Software%20Engineer%20%F0%9F%92%A1)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Antonius Andrian&style=flat-square&color=58a6ff)
+![Visitor Count](https://komarev.com/ghpvc/?username=GyozaLion&style=flat-square&color=58a6ff)
 
 </div>
 
-# 👋 Hi, I'm Maya Liu!
+# 👋 Hi, I'm Andrian!
 
-> Learning every day, building every weekend
+> Learning every day to reach the Goal
 
 ## 🌟 About Me
 
@@ -36,7 +20,7 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![html](https://img.shields.io/badge/html-344fb2?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![html](https://img.shields.io/badge/html-344fb2?style=for-the-badge) ![css](https://img.shields.io/badge/css-34b2b0?style=for-the-badge) ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Tools & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-3444b2?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-51b234?style=for-the-badge)
@@ -48,11 +32,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Maya Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antonius Andrian&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![Andrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyozaLion&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Antonius Andrian&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GyozaLion&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonius Andrian&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GyozaLion&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 

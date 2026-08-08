@@ -1,4 +1,3 @@
-[GyozaLion-README.md](https://github.com/user-attachments/files/30857184/GyozaLion-README.md)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Engineering%20Student%20%F0%9F%8E%93;Learning%20%C2%B7%20Building%20%C2%B7%20Growing;Future%20Software%20Engineer%20%F0%9F%92%A1)](https://git.io/typing-svg)

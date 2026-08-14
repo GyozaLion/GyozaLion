@@ -6,7 +6,7 @@
 
 </div>
 
-# 👋 Hi, I'm Andrian!
+# 👋 Hi, I'm Adrian!
 
 > Learning every day to reach the Goal
 
